@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>ロジスティック回帰分析 Web App</h1>
-    <p>ここにロジスティック回帰分析をしたいファイルをアップロードしてください.</p>
+    <p>ここにロジスティック回帰分析をしたいファイルをアップロードしてください。(csv UTF-8(コンマ区切り)にしてください)</p>
     <form method="post" enctype="multipart/form-data">
         {% csrf_token %}
         <input type="file" name="csv_file" accept=".csv">
