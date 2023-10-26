@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     'logit_app', # 追加
-    'django_pandas'
 ]
 
 MIDDLEWARE = [
