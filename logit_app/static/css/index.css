@@ -1,3 +1,19 @@
-.article h1 {
-    background: #e5e4e6;
-    border-left: solid 5px #393f4c;
+body {
+    background-color: #D3DEF1;
+  }
+td {text-align: center}
+.HeaderTable thead {
+  border-collapse:collapse;
+}
+
+.HeaderTable thead tr:nth-child(1) {
+  background-color:#0094ff;
+}
+
+.HeaderTable thead tr:nth-child(1) td {
+  color:white;
+}
+
+.HeaderTable thead tr td {
+  border: 1px solid #0094ff;
+}
