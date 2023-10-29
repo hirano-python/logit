@@ -16,3 +16,7 @@
   .hr1 {
     border-top: 3px solid red; /* 赤 */
   }
+  body {
+    background-color: #D3DEF1;
+  }
+  .HeaderTable td {text-align: center}
