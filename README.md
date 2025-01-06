@@ -1,7 +1,4 @@
 # ロジスティック回帰分析を行うwebアプリ
-webに公開している url: https://hirano.pythonanywhere.com/logit_app/index/
-
-無料版であるためcssは反映できていないので反映されているバージョンを見たい場合はファイルをダウンロードの上以下の詳細をインストールの上ご確認ください。
 
 # webアプリの詳細
 pythonのバージョン: 3.10
