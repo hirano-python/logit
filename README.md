@@ -1,5 +1,9 @@
 # ロジスティック回帰分析を行うwebアプリ
 
+アプリのurl
+https://logit-q7iv.onrender.com/
+cssは無料版だからか反映できませんでした。
+
 # webアプリの詳細
 pythonのバージョン: 3.10
 webフレームワーク:Django
