@@ -2,7 +2,7 @@
 
 アプリのurl
 https://logit-q7iv.onrender.com/
-cssは無料版だからか反映できませんでした。
+cssは無料版だからか反映できませんでした。また1時間くらいで切れます。
 
 # webアプリの詳細
 pythonのバージョン: 3.10
